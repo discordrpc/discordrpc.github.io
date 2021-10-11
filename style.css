@@ -19,31 +19,31 @@ body {
 }
 
 .button {
-	 color: white;
-	 text-decoration: none;
-	 border: none;
-	 font-weight: bold;
-	 font-size: 15px;
+	color: white;
+	text-decoration: none;
+	border: none;
+	font-weight: bold;
+	font-size: 15px;
     padding: 10px;
     transition: all 0.2s ease-in-out;
 }
 
 .button:hover {
     color: white;
-	 text-shadow: 0 0 9px #fff;
+	text-shadow: 0 0 9px #fff;
 }
 
 #about-img {
-	 border-radius: 50%;
-	 max-width: 30%;
-	 height: auto;
-	 margin-top: 200px;
-	 margin-left: 200px;
-	 padding: none;
+	border-radius: 50%;
+	max-width: 30%;
+	height: auto;
+	margin-top: 200px;
+	margin-left: 200px;
+	padding: none;
 }
 
 #about-text {
-	 text-align: center;
-	 padding-top: 100px;
-	 padding-left: none;
+	text-align: center;
+	padding-top: 100px;
+	padding-left: none;
 }
